@@ -8,5 +8,8 @@ package com.chenyuan.scaffold.mapper;
  */
 public class TT {
 
+    private String name;
+
+    private Integer id;
 
 }
